@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
         actions: [
           IconButton(
             onPressed: () {},
-            icon: Icon(Icons.star),
+            icon: const Icon(Icons.star),
           ),
         ],
       ),
